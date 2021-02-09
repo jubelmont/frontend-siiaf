@@ -2,11 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
+## Herramientas necesarias para descargar e instalar
+
+[GIT](https://git-scm.com/downloads)
+[NodeJS](https://nodejs.org/es/download/)
+
 ## Cómo levantar este proyecto
 
 Deberán realizar un `Fork` de este repositorio a su cuenta de GitHub. 
 
 > Nota: Es imperativo que una vez realizado el `Fork` y éste se encuentre en sus proyectos modifiquen el acceso al código fuente mediante la opción `Settings|Danger Zone|Change visibility`, con el fin de mantener oculto el proyecto.
+
 
 
 
